@@ -3,9 +3,9 @@
 
 ## Table of Contents
 1. Investing 101
-  1. Savings Accounts
-  2. Stocks, Bonds, ETFs
-    1. Toy Model
+    1. Savings Accounts
+    2. Stocks, Bonds, ETFs
+      1. Toy Model
   3. Options
 2. Some Math
   2. Law of Large Numbers
