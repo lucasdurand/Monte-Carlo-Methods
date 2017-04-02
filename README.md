@@ -1,5 +1,8 @@
 # Monte-Carlo-Methods
-(Entry Level) Exploration of Financial Models with Monte Carlo Methods
+(Entry Level) Exploration of Financial Models with Monte Carlo Methods. A few live examples of Monte Carlo simulations with illustrative animations and a simple toy model of stock prices.
+
+### To view:
+Open .ipynb with Jupyter Notebook. Jupyter RISE suggested for slideshow viewing
 
 ## Table of Contents
 1. Investing 101
