@@ -8,9 +8,9 @@
       1. Toy Model
      3. Options
 2. Some Math
-      2. Law of Large Numbers
-      2. Central Limit Theorem
-      2. Random Numbers
+    1. Law of Large Numbers
+    2. Central Limit Theorem
+    2. Random Numbers
 3. More Monte Carlo Simulations
       1. Estimate  π 
       1. Gamble Winningly
