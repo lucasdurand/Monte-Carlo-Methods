@@ -1,0 +1,12 @@
+numpy
+pandas
+requests
+scipy
+colour
+matplotlib
+seaborn
+plotly
+cufflinks
+jupyter
+rise
+sobol_seq
